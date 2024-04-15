@@ -1,0 +1,21 @@
+#ifndef EXTRA_H
+#define EXTRA_H
+
+////////////////DECLARANDO FUNCOES//////////////////////
+
+
+
+void tempo();
+void completHabt();
+void mudarCor();
+void sairChoices();
+
+///////////////
+
+///EXTRAS :)///
+
+//////////////
+
+
+////////////////////////////////////////////////////////
+#endif
